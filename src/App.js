@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <div className='contenedor-imag'>
         <img className='img-p' src={imagen} />
-        <p className='parra'  >Tareas de la Piña Colada Sexy</p>
+        <p className='parra'  >Tareas de la Piña Colada Stinky</p>
       </div>
 
       <div className='lista-tareas'>
